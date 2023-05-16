@@ -5,6 +5,7 @@ def find_max(A):
             max = item
     return max
 
+# Test Code
 array = [20, 34, 12, 93 ,84 ,39, 64 ,55 ,24]
 print("A = ", array)
 print("max(A) = ", find_max(array))
